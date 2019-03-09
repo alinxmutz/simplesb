@@ -8,15 +8,15 @@ HelloWorld Script. Just Repost
 ## Installation for Termux
 
 ```sh
-$ apt update
-$ apt upgrade
-$ apt install python
-$ apt install git
+$ pkg update
+$ pkg upgrade
+$ pkg install python3
+$ pkg install git
 $ git clone https://github.com/alinxmutz/simplesb
 $ cd simplesb
 $ cd helloworld
-$ python -m pip install -r requirements.txt
-$ python helloworld.py
+$ python3 -m pip install -r requirements.txt
+$ python3 helloworld.py
 ```
 
 ## Installation for VPS
