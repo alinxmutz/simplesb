@@ -1,6 +1,5 @@
 # simplesb
 HelloWorld Script. Just Repost
-# ![logo](LINE-sm.png) LINE Python
 
 *LINE Messaging's private API*
 
@@ -13,8 +12,9 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/alinxmutz/HelloWorld
-$ cd HelloWorld
+$ git clone https://github.com/alinxmutz/simplesb
+$ cd simplesb
+$ cd helloworld
 $ python -m pip install -r requirements.txt
 $ python helloworld.py
 ```
