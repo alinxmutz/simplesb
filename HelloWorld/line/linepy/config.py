@@ -31,8 +31,8 @@ class Config(object):
         'JUNGEL_PANG': '1526709289'
     }
 
-    APP_TYPE    = ApplicationType._VALUES_TO_NAMES[304]
-    APP_VER     = '8.12.2'
+    APP_TYPE    = ApplicationType._VALUES_TO_NAMES[400]
+    APP_VER     = '5.5.5'
     CARRIER     = '51089, 1-0'
     SYSTEM_NAME = 'HelloWorld'
     SYSTEM_VER  = '11.2.5'
